@@ -1,6 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Chat App
+
+This is a simple chat application built using React, Next.js, Firebase, and Tailwind CSS. It allows users to register, log in, and engage in real-time conversations with other users. The app utilizes Firebase Firestore for storing and syncing chat messages, Firebase Authentication for user management, Next.js for server-side rendering, and Tailwind CSS for styling.
+
+## Technologies Used
+- React: A JavaScript library for building user interfaces.
+- Next.js: A React framework for server-side rendering and static site generation.
+- Firebase: A cloud-based platform for building web and mobile applications.
+- Firebase Firestore: A NoSQL cloud database for storing and syncing app data in real-time.
+- Firebase Authentication: A service that provides user authentication and authorization.
+- Tailwind CSS: A utility-first CSS framework for building responsive and customizable UIs.
+
 
 ## Getting Started
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
